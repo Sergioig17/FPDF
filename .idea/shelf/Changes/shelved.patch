@@ -1,0 +1,15 @@
+Index: a.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?php\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/a.php b/a.php
+--- a/a.php	(revision d1dae27b25bd84af6a78e21039744bddc02ea83e)
++++ b/a.php	(date 1761826020958)
+@@ -1,1 +1,4 @@
+ <?php
++
++
++echo "Sergio Izquierdo Gonzalez";
