@@ -1,6 +1,4 @@
 <?php
-
-
 echo "Sergio Izquierdo Gonzalez";
 
 
@@ -13,3 +11,7 @@ echo "Esto es una prueba";
 
 
 echo "LA PRUEBA DEFINITIVA";
+
+
+
+?>
